@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BinarnoZaporedje1/1.0.0": {
+        "runtime": {
+          "BinarnoZaporedje1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarnoZaporedje1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

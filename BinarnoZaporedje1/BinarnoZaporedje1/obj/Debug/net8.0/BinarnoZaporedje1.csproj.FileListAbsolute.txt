@@ -1,0 +1,14 @@
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\bin\Debug\net8.0\BinarnoZaporedje1.exe
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\bin\Debug\net8.0\BinarnoZaporedje1.deps.json
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\bin\Debug\net8.0\BinarnoZaporedje1.runtimeconfig.json
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\bin\Debug\net8.0\BinarnoZaporedje1.dll
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\bin\Debug\net8.0\BinarnoZaporedje1.pdb
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.AssemblyInfoInputs.cache
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.AssemblyInfo.cs
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.csproj.CoreCompileInputs.cache
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.dll
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\refint\BinarnoZaporedje1.dll
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.pdb
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\BinarnoZaporedje1.genruntimeconfig.cache
+D:\PROGRAMIRANJE\BinarnoZaporedje1\BinarnoZaporedje1\obj\Debug\net8.0\ref\BinarnoZaporedje1.dll
